@@ -56,10 +56,7 @@
 ## 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JustPrystal&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustPrystal&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="180" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustPrystal&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://github.com/JustPrystal">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JustPrystal&theme=tokyonight" alt="GitHub Details" />
+  </a>
 </p>
