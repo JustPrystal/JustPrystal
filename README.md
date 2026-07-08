@@ -51,12 +51,3 @@
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 📊 GitHub Analytics
-
-<p align="left">
-  <a href="https://github.com/JustPrystal">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JustPrystal&theme=tokyonight" alt="GitHub Details" />
-  </a>
-</p>
